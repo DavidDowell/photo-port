@@ -26,7 +26,7 @@ const Nav = () => {
         <header>
             <h2>
                 <a href="/">
-                    <span role="img" aria-label="camera">📸</span> Oh Snap !
+                    <span role="img" aria-label="camera">📸</span> Oh Snap!
                 </a>
             </h2>
             <nav>
